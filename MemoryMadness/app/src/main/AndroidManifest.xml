@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.elijah.memorymadness" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainMenu"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NewUser" />
+        <activity android:name=".SelectUser" />
+        <activity android:name=".Settings" />
+        <activity android:name=".Teacher_Login" />
+        <activity android:name=".set_color_scheme" />
+        <activity android:name=".show_scores" />
+        <activity android:name=".test" />
+        <activity android:name=".BeginPlay" />
+        <activity android:name=".BeginPartTwo" />
+        <activity android:name=".question_one_image" />
+        <activity android:name=".question_one_question" />
+        <activity android:name=".question_two_image" />
+        <activity android:name=".question_two_question" />
+        <activity android:name=".question_three_image" />
+        <activity android:name=".question_three_question" />
+        <activity android:name=".question_four_question" />
+        <activity android:name=".question_five_image" />
+        <activity android:name=".question_five_question" />
+        <activity android:name=".LR_statements" />
+        <activity android:name=".LR_answers" />
+        <activity android:name=".submitted" />
+    </application>
+
+</manifest>

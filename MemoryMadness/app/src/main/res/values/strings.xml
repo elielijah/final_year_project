@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MemoryMadness</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Main_Menu">Main Menu</string>
+    <string name="Select_user">Select user</string>
+    <string name="New_user">New user</string>
+    <string name="Settings">Settings</string>
+    <string name="Color_scheme">Colour Scheme</string>
+    <string name="Enter_name">Enter your first name: </string>
+    <string name="Choose_your_age">Choose your age: </string>
+    <string name="Choose_your_gender">Choose your gender: </string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="nine_and_below">9 or younger</string>
+    <string name="ten_to_eleven">10 - 11</string>
+    <string name="twelve_and_above">12+</string>
+    <string name="submit">submit</string>
+    <string name="begin">Begin</string>
+    <string name="ready">Ready</string>
+    <string name="proceed">Proceed</string>
+    <string name="hint">HINT</string>
+    <string name="email">Email Address:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <string name="True">TRUE</string>
+    <string name="False">FALSE</string>
+    <string name="Correct">Correct</string>
+    <string name="Correct_answer">Correct Answer</string>
+    <string name="Wrong_answer">Wrong Answer</string>
+    <string name="Incorrect">Incorrect</string>
+    <string name="Statement1">Statement1: </string>
+    <string name="Statement2">Statement2: </string>
+    <string name="Statement3">Statement3: </string>
+    <string name="Statement4">Statement4: </string>
+    <string name="Statement5">Statement5: </string>
+    <string name="Try_again">TRY AGAIN</string>
+    <string name="End_Game">END GAME</string>
+    <string name="Default">DEFAULT</string>
+    <string name="Option1">Option1</string>
+    <string name="Option2">Option2</string>
+    <string name="Option3">Option3</string>
+    <string name="Select">select</string>
+    <string name="Delete">delete</string>
+    <array name="level">
+        <item>Basic</item>
+        <item>Advanced</item>
+    </array>
+</resources>
